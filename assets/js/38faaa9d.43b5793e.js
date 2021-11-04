@@ -1,0 +1,1 @@
+(self.webpackChunkacm_uic_github_io=self.webpackChunkacm_uic_github_io||[]).push([[3443],{8099:function(s){"use strict";s.exports=JSON.parse('{"name":"style","permalink":"/docs/tags/style","docs":[{"id":"Knowledge Base/logos","title":"ACM Logo Archives","description":"Logos used by ACM@UIC.","permalink":"/docs/kb/logos"}],"allTagsPath":"/docs/tags"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkacm_uic_github_io=self.webpackChunkacm_uic_github_io||[]).push([[621],{4466:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/officer","name":"officer","count":2,"permalink":"/blog/tags/officer"}')}}]);

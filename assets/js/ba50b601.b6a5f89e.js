@@ -1,0 +1,1 @@
+(self.webpackChunkacm_uic_github_io=self.webpackChunkacm_uic_github_io||[]).push([[6386],{7032:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/si-gs","name":"SIGs","count":1,"permalink":"/blog/tags/si-gs"}')}}]);
